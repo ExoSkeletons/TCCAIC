@@ -1,7 +1,5 @@
 # TCCAIC
 
-![Splash](https://i.postimg.cc/Y08CpMy6/title.png)
-
 ![Meeting](https://i.postimg.cc/mk8y336g/meeting.png)
 ![Arena](https://i.postimg.cc/tJDvDMYR/2016-11-24-09-19-08.png)
 
