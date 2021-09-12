@@ -5,7 +5,7 @@
 
 "The ComputerCraft AI Challange" was a project that simulated a board game, where coders then were put against each other and tasked with coding their best AI for it. The AIs would then compete in the virtual game and the coder of the best AI wins.
 
-This was all done inside the game Minecraft, using virtual computers added by the mod ComputerCraft. Kind of a weird way to do it I know. But what can you do- it seemed like a fun idea at the time. 
+This was all done inside the game Minecraft, using virtual computers added by the mod ComputerCraft. Kind of a weird way to do it, I know, but it did seem like a fun idea at the time. 
 
 ## Download
 [Minecraft World save](http://www.mediafire.com/file/e9veb5os75e7xi5/TCCAIC_World.zip/file)
