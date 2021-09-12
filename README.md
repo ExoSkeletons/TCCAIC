@@ -1,7 +1,7 @@
 # TCCAIC
 
 ![Splash](https://i.postimg.cc/Y08CpMy6/title.png)
-![Meeting](https://i.postimg.cc/mk8y336g/meeting.png)](https://postimg.cc/ctt303Sp)
+![Meeting](https://i.postimg.cc/mk8y336g/meeting.png)]
 
 "The ComputerCraft AI Challange" was a project that simulated a board game, where coders then were put against each other and tasked with coding their best AI for it. The AIs would then compete in the virtual game and the coder of the best AI wins. This was all run inside the game Minecraft, using virtual computers added by the mod ComputerCraft.
 
