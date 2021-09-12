@@ -22,6 +22,9 @@ Must be played on Minecraft version 1.8.9 with the [ComputerCraft mod](http://ww
 
 ## Credits
 OS [AlbÿnOS by EtK2000](https://github.com/EtK2000/Alb-no-OS)
+
 File explorer [FileX by Creator](http://www.computercraft.info/forums2/index.php?/topic/22108-filex-a-powerful-file-explorer-with-guibig-updateopen-with/)
+
 IDE [LuaIDE by GravityScore](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/page__hl__luaide)
+
 
