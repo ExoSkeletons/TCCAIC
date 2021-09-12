@@ -17,7 +17,7 @@ This was all run inside the game Minecraft, using virtual computers added by the
 Must be played on Minecraft version 1.8.9 with the [ComputerCraft mod](http://www.computercraft.info/download/) version 1.79.
 
 
-## Example Setup
+## Example Match
 ![Chart](https://i.postimg.cc/nrT1bJ3D/demo.jpg)
 
 ![Game Start](https://i.postimg.cc/D0B6T4Q7/2016-11-24-11-11-46.png)
