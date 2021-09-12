@@ -9,6 +9,8 @@
 
 [Minecraft Resource Pack](http://www.mediafire.com/file/pqwo608c09rduxw/TCCAIC_Resource_Pack.zip/file)
 
+[APIs and functions list](http://www.mediafire.com/file/4h4ywcw7znsy6yu/LOUSTUIB.lua/file)
+
 Must be played on Minecraft version 1.8.9 with the [ComputerCraft mod](http://www.computercraft.info/download/) version 1.79.
 
 
