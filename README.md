@@ -14,7 +14,7 @@ This was all done inside the game Minecraft, using virtual computers added by th
 
 [APIs and functions list](http://www.mediafire.com/file/4h4ywcw7znsy6yu/LOUSTUIB.lua/file)
 
-Must be played on Minecraft version 1.8.9 with the [ComputerCraft mod](http://www.computercraft.info/download/) version 1.79.
+Must be played on Minecraft version 1.8.9 with [ComputerCraft](http://www.computercraft.info/download/) version 1.79.
 
 
 ## Example Match
